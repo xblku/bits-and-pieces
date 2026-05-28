@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-11-21.
+Captured 2026-05-28.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: retention policy silently kept everything for a year.
