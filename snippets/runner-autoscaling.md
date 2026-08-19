@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2026-06-30.
+Captured 2026-08-19.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: staging and production diverged on one env var.
