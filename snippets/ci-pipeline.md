@@ -1,5 +1,5 @@
 # CI pipeline
 
-Captured 2025-12-30.
+Captured 2026-08-19.
 
-Context: the cron job overlapped with itself under load.
+Context: log volume tripled after a debug flag stayed on.
